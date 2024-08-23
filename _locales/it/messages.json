@@ -28,7 +28,7 @@
 	},
 
 	"enabled": {
-		"message": "Abilitato"
+		"message": "Abilitata"
 	},
 
 	"errorHTMLTitle": {
@@ -56,22 +56,22 @@
 	},
 
 	"indexHTMLCaution": {
-		"message": "Attenzione: selezionando un url con protocollo https, l'opzione https sarà utilizzata anche se si seleziona http.",
+		"message": "Nota: selezionando un url con protocollo https, sarà privilegiata l'opzione https anche se si sceglie http.",
 		"description": "Cautions of this extention."
 	},
 
 	"indexHTMLHeading1": {
-		"message": "1. Usare il tasto destro del mouse su un link o la selezione di un url in formato testo e selezionare \"Apri nella barra laterale\" nel menu contestuale.",
+		"message": "1. Cliccare con il tasto destro del mouse su un link o la selezione di un url in formato testo e selezionare \"Apri nella barra laterale\" nel menu contestuale.",
 		"description": "The first heading of index.html."
 	},
 
 	"indexHTMLHeading2": {
-		"message": "2. Scegliere l'elemento da aprire ed il protocollo se non specificato (usare https in caso di dubbi).",
+		"message": "2. Scegliere e cliccare sulla voce che si desidera aprire (usare https in caso di dubbi).",
 		"description": "The second heading of index.html."
 	},
 
 	"indexHTMLOthers": {
-		"message": "Per esempio si possono aprire nella barra laterale un audio, un'immagine, un video, un segnalibro o una scheda.",
+		"message": "Ad esempio si possono aprire nella barra laterale un audio, un'immagine, un video, un segnalibro o una scheda.",
 		"description": "others of index.html"
 	},
 
@@ -90,7 +90,7 @@
 	},
 
 	"initialLocationDescription": {
-		"message": "Premi 'Invio' per salvare. Se lasciato vuoto si resetta allo stato predefinito."
+		"message": "Premere 'Invio' per salvare. Se lasciato vuoto si resetta allo stato predefinito."
 	},
 
 	"openFromBookmark": {
@@ -171,7 +171,7 @@
 	},
 
 	"optionsUserAgentHTMLCaution": {
-		"message": "Questo sovrascrive l'user agent ed ha effetto su tutte le barre laterali aperte."
+		"message": "Questo sovrascrive l'user agent ed influisce sulle pagine aperte nella barra laterale e relative estensioni."
 	},
 
 	"placement": {
@@ -179,7 +179,7 @@
 	},
 
 	"placementAllCaution": {
-		"message": "Non ha effetto su barre laterali aperte con modalità 'Scheda' o 'Finestra' e può essere sovrascritta da entrambe."
+		"message": "Non ha effetto su barre laterali aperte con modalità 'Scheda' o 'Finestra' e viene sovrascritta da entrambe."
 	},
 
 	"placementAllDescription": {
@@ -187,7 +187,7 @@
 	},
 
 	"placementTabCaution": {
-		"message": "Questa modalità può essere sovrascritta solo da se stessa."
+		"message": "La modalità 'Scheda' può essere sovrascritta solo da se stessa."
 	},
 
 	"placementTabDescription": {
@@ -195,7 +195,7 @@
 	},
 
 	"placementWindowCaution": {
-		"message": "Non ha effetto su barre laterali aperte con modalità 'Scheda' e può essere sovrascritta da se stessa o da 'Scheda'."
+		"message": "Non ha effetto su barre laterali aperte con modalità 'Scheda' e viene sovrascritta da se stessa o da 'Scheda'."
 	},
 
 	"placementWindowDescription": {
@@ -203,7 +203,7 @@
 	},
 
 	"protocol": {
-		"message": "Procollo"
+		"message": "Protocollo"
 	},
 
 	"reload": {
@@ -211,7 +211,7 @@
 	},
 
 	"specify": {
-		"message": "Seleziona"
+		"message": "Specifica"
 	},
 
 	"sidebarHTMLTitle": {
@@ -220,7 +220,7 @@
 	},
 
 	"synchronization": {
-		"message": "Sincronizza (Firefox Account)"
+		"message": "Sincronizzazione (account Mozilla)"
 	},
 
 	"tab": {
@@ -228,7 +228,7 @@
 	},
 
 	"target": {
-		"message": "Elementi"
+		"message": "Voci target menu"
 	},
 
 	"thisUrlIsNotAValidUrl": {
@@ -267,27 +267,27 @@
 	},
 
 	"viewSourceFromBookmark": {
-		"message": "Visualizza sorgente di un segnalibro"
+		"message": "Visualizza sorgente segnalibro"
 	},
 
 	"viewSourceFromLink": {
-		"message": "Visualizza sorgente di un link"
+		"message": "Visualizza sorgente link"
 	},
 
 	"viewSourceFromPage": {
-		"message": "Visualizza sorgente di una pagina"
+		"message": "Visualizza sorgente pagina"
 	},
 
 	"viewSourceFromSelection": {
-		"message": "Visualizza sorgente di una selezione"
+		"message": "Visualizza sorgente selezione"
 	},
 
 	"viewSourceFromSidebar": {
-		"message": "Visualizza sorgente della barra laterale"
+		"message": "Visualizza sorgente barra laterale"
 	},
 
 	"viewSourceFromTab": {
-		"message": "Visualizza sorgente di una scheda"
+		"message": "Visualizza sorgente scheda"
 	},
 
 	"watchTheVideo": {
